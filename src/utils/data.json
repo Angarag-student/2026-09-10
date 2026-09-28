@@ -88,5 +88,185 @@
     "capacity": 4,
     "range": "1,189 km",
     "speed": "302 km/h"
+  },
+  {
+    "id": 11,
+    "name": "Boeing 787-9 Dreamliner",
+    "manufacturer": "Boeing",
+    "type": "Wide-body Commercial",
+    "capacity": 296,
+    "range": "14,140 km",
+    "speed": "903 km/h"
+  },
+  {
+    "id": 12,
+    "name": "Airbus A330-900neo",
+    "manufacturer": "Airbus",
+    "type": "Wide-body Commercial",
+    "capacity": 287,
+    "range": "13,334 km",
+    "speed": "871 km/h"
+  },
+  {
+    "id": 13,
+    "name": "Airbus A220-300",
+    "manufacturer": "Airbus",
+    "type": "Narrow-body Commercial",
+    "capacity": 160,
+    "range": "6,297 km",
+    "speed": "829 km/h"
+  },
+  {
+    "id": 14,
+    "name": "CRJ-900",
+    "manufacturer": "Bombardier",
+    "type": "Regional Jet",
+    "capacity": 90,
+    "range": "2,876 km",
+    "speed": "829 km/h"
+  },
+  {
+    "id": 15,
+    "name": "ATR 72-600",
+    "manufacturer": "ATR",
+    "type": "Turboprop",
+    "capacity": 78,
+    "range": "1,370 km",
+    "speed": "510 km/h"
+  },
+  {
+    "id": 16,
+    "name": "Gulfstream G650ER",
+    "manufacturer": "Gulfstream",
+    "type": "Business Jet",
+    "capacity": 19,
+    "range": "13,890 km",
+    "speed": "956 km/h"
+  },
+  {
+    "id": 17,
+    "name": "Bombardier Global 7500",
+    "manufacturer": "Bombardier",
+    "type": "Business Jet",
+    "capacity": 19,
+    "range": "14,260 km",
+    "speed": "955 km/h"
+  },
+  {
+    "id": 18,
+    "name": "Dassault Falcon 8X",
+    "manufacturer": "Dassault Aviation",
+    "type": "Business Jet",
+    "capacity": 16,
+    "range": "11,945 km",
+    "speed": "900 km/h"
+  },
+  {
+    "id": 19,
+    "name": "Cirrus SR22",
+    "manufacturer": "Cirrus Aircraft",
+    "type": "Light Propeller",
+    "capacity": 5,
+    "range": "1,943 km",
+    "speed": "339 km/h"
+  },
+  {
+    "id": 20,
+    "name": "Beechcraft King Air 350i",
+    "manufacturer": "Textron Aviation",
+    "type": "Turboprop",
+    "capacity": 11,
+    "range": "3,345 km",
+    "speed": "578 km/h"
+  },
+  {
+    "id": 21,
+    "name": "Boeing 767-300ER",
+    "manufacturer": "Boeing",
+    "type": "Wide-body Commercial",
+    "capacity": 269,
+    "range": "11,070 km",
+    "speed": "851 km/h"
+  },
+  {
+    "id": 22,
+    "name": "Airbus A321XLR",
+    "manufacturer": "Airbus",
+    "type": "Narrow-body Commercial",
+    "capacity": 220,
+    "range": "8,700 km",
+    "speed": "833 km/h"
+  },
+  {
+    "id": 23,
+    "name": "McDonnell Douglas MD-11",
+    "manufacturer": "McDonnell Douglas",
+    "type": "Wide-body Commercial",
+    "capacity": 298,
+    "range": "12,655 km",
+    "speed": "876 km/h"
+  },
+  {
+    "id": 24,
+    "name": "Lockheed L-1011 TriStar",
+    "manufacturer": "Lockheed",
+    "type": "Wide-body Commercial",
+    "capacity": 256,
+    "range": "7,410 km",
+    "speed": "890 km/h"
+  },
+  {
+    "id": 25,
+    "name": "Antonov An-225 Mriya",
+    "manufacturer": "Antonov",
+    "type": "Cargo Transport",
+    "capacity": 6,
+    "range": "15,400 km",
+    "speed": "850 km/h"
+  },
+  {
+    "id": 26,
+    "name": "C130 Hercules",
+    "manufacturer": "Lockheed Martin",
+    "type": "Military Transport",
+    "capacity": 92,
+    "range": "3,800 km",
+    "speed": "592 km/h"
+  },
+  {
+    "id": 27,
+    "name": "Pilatus PC-12 NGX",
+    "manufacturer": "Pilatus Aircraft",
+    "type": "Turboprop",
+    "capacity": 10,
+    "range": "3,417 km",
+    "speed": "537 km/h"
+  },
+  {
+    "id": 28,
+    "name": "Piper PA-28 Cherokee",
+    "manufacturer": "Piper Aircraft",
+    "type": "Light Propeller",
+    "capacity": 4,
+    "range": "950 km",
+    "speed": "230 km/h"
+  },
+  {
+    "id": 29,
+    "name": "HondaJet HA-420",
+    "manufacturer": "Honda Aircraft Company",
+    "type": "Very Light Jet",
+    "capacity": 7,
+    "range": "2,661 km",
+    "speed": "782 km/h"
+  },
+  {
+    "id": 30,
+    "name": "Supermarine Spitfire",
+    "manufacturer": "Supermarine",
+    "type": "Historical Fighter",
+    "capacity": 1,
+    "range": "760 km",
+    "speed": "584 km/h"
   }
 ]
