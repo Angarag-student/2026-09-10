@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Boeing 747-8",
+    "manufacturer": "Boeing",
+    "type": "Wide-body Commercial",
+    "capacity": 410,
+    "range": "14,320 km",
+    "speed": "988 km/h"
+  },
+  {
+    "id": 2,
+    "name": "Airbus A380",
+    "manufacturer": "Airbus",
+    "type": "Wide-body Commercial",
+    "capacity": 535,
+    "range": "14,800 km",
+    "speed": "903 km/h"
+  },
+  {
+    "id": 3,
+    "name": "Boeing 777X",
+    "manufacturer": "Boeing",
+    "type": "Wide-body Commercial",
+    "capacity": 426,
+    "range": "16,170 km",
+    "speed": "905 km/h"
+  },
+  {
+    "id": 4,
+    "name": "Airbus A350-900",
+    "manufacturer": "Airbus",
+    "type": "Wide-body Commercial",
+    "capacity": 315,
+    "range": "15,000 km",
+    "speed": "903 km/h"
+  },
+  {
+    "id": 5,
+    "name": "Boeing 737 MAX 8",
+    "manufacturer": "Boeing",
+    "type": "Narrow-body Commercial",
+    "capacity": 210,
+    "range": "6,570 km",
+    "speed": "839 km/h"
+  },
+  {
+    "id": 6,
+    "name": "Airbus A320neo",
+    "manufacturer": "Airbus",
+    "type": "Narrow-body Commercial",
+    "capacity": 194,
+    "range": "6,500 km",
+    "speed": "828 km/h"
+  },
+  {
+    "id": 7,
+    "name": "Embraer E190-E2",
+    "manufacturer": "Embraer",
+    "type": "Regional Jet",
+    "capacity": 114,
+    "range": "5,278 km",
+    "speed": "870 km/h"
+  },
+  {
+    "id": 8,
+    "name": "Bombardier Q400",
+    "manufacturer": "De Havilland Canada",
+    "type": "Turboprop",
+    "capacity": 90,
+    "range": "2,040 km",
+    "speed": "667 km/h"
+  },
+  {
+    "id": 9,
+    "name": "Concorde",
+    "manufacturer": "Aérospatiale / BAC",
+    "type": "Supersonic Airliner",
+    "capacity": 128,
+    "range": "7,250 km",
+    "speed": "2,179 km/h"
+  },
+  {
+    "id": 10,
+    "name": "Cessna 172 Skyhawk",
+    "manufacturer": "Cessna",
+    "type": "Light Propeller",
+    "capacity": 4,
+    "range": "1,189 km",
+    "speed": "302 km/h"
+  }
+]
